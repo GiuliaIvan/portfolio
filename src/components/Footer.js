@@ -66,7 +66,7 @@ export default function Footer() {
         </a>
 
         <a
-          href="https://github.com/GiuliaIvan"
+          href="https://github.com/GiuliaIvan?tab=repositories"
           title="This is my GitHub profile"
         >
           <img
