@@ -31,7 +31,7 @@ export default function About() {
               altruistic, perfectionist, original, hard-working, true leader
               that loves community and a reader between the lines are just a few
               adjectives that describe me. A volleyball freak, that finds joy in
-              teamimg up with people to reach the top of the pyramid.
+              teaming up with people to reach the top of the pyramid.
               <br />
               <br />
               <i>
